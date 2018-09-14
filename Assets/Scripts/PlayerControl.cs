@@ -21,6 +21,10 @@ public class PlayerControl : MonoBehaviour
 #elif UNITY_STANDALONE_WIN
             gameObject.AddComponent<InputController>().Init(InputType.PortRowingMachine);
             Debug.Log("开始执行 Win 平台下的初始化函数");
+#elif UNITY_STANDALONE_OSX
+            gameObject.AddComponent<InputController>().Init(InputType.PortRowingMachine);
+            Debug.Log("开始执行 Win 平台下的初始化函数");
+
 #elif UNITY_IPHONE
             Debug.Log("开始执行 IOS 平台下的初始化函数");
             gameObject.AddComponent<InputController>().Init(InputType.DeviceBle);
