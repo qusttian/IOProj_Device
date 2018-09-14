@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5bb9c42fd13254347a9cd74fe8d537b1
+timeCreated: 1517365354
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Source Han Sans CN
+  fontNames:
+  - Source Han Sans CN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0666218cba98ed94da5ccc4f8ec5f790, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: font/sourcehansanscn-bold
+  assetBundleVariant: 

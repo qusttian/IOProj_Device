@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2255E5FF-1AB7-4F24-F9C5-89039961F168}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bluetooth/UIBluetooth.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Connection.cs" Line="93" Column="17" />
+      <File FileName="Assets/Scripts/ConnectBleByIOS.cs" Line="133" Column="26" />
+      <File FileName="Assets/Scripts/IInput.cs" Line="8" Column="5" />
+      <File FileName="Assets/Scripts/Device.cs" Line="58" Column="47" />
+      <File FileName="Assets/Scripts/DataDisplay.cs" Line="141" Column="6" NotebookId="1" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="19" Column="88" NotebookId="1" />
+      <File FileName="Assets/Scripts/Device_RowingMachine.cs" Line="133" Column="20" NotebookId="1" />
+      <File FileName="Assets/Scripts/ConnectPortByPC.cs" Line="170" Column="10" NotebookId="1" />
+      <File FileName="Assets/Scripts/InputController.cs" Line="61" Column="54" NotebookId="1" />
+      <File FileName="Assets/Scripts/Device_Fitmanbike.cs" Line="302" Column="25" NotebookId="1" />
+      <File FileName="Assets/Scripts/DeviceConfig.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Bluetooth/UIBluetooth.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
